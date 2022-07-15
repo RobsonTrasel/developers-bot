@@ -1,0 +1,27 @@
+{
+  "name": "developers-bot",
+  "version": "0.2.1",
+  "description": "A bot made by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobsonTrasel/developers-bot.git"
+  },
+  "author": "RB Bots",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobsonTrasel/developers-bot/issues"
+  },
+  "homepage": "https://github.com/RobsonTrasel/developers-bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.18.1"
+  }
+}
